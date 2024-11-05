@@ -2,6 +2,7 @@
 
 This project is a simple implementation of the Mandelbrot fractal using the Raylib library in C.
 The Mandelbrot set is a famous fractal that exhibits intricate and infinitely complex boundary structures.
+You can find the code implementation video on [YouTube](https://www.youtube.com/watch?v=J1XedCVcgWI)
 
 ## Features
 
